@@ -1,0 +1,8 @@
+In Knight Rider, why does each LED require its own pin?
+    So the LED would blink in sequence, one by one using the code.
+    
+Why is Knight Rider 2 in the Arduino tutorial so much shorter than Knight Rider 1?
+    
+
+What resistor value should be used with the LEDs?
+    470 ohm resistor (yellow - violet - brown) and 1/4W, 5% or better for the resisitor. 
